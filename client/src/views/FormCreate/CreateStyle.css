@@ -1,0 +1,12 @@
+.formCreate{
+    justify-content: center;
+    
+    border: solid 2px white;
+  
+}
+
+.label{
+    display: flex;
+    align-items: center;
+  
+}
